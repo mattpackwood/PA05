@@ -1,8 +1,6 @@
-/*
- * Computer PA05
- *
- * Matt Packwood, Orchard Ridge Nights, Winter 2003
- * Modify PA04 with selection logic and ActionListener event handling
+/* Matt Packwood, Orchard Ridge Campus, Monday Evening Class, Fall Semester 2003
+ * 
+ * PA05: Modify PA04 with selection logic and ActionListener event handling
  * from C7 to control location and appearance of the computer on screen
  *
  * Use Dimension class and getSize method to adjust applet to screen
